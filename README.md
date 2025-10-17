@@ -6,7 +6,7 @@
 
 
 
-<div align="center"> **Modern, minimalist hava durumu uygulaması - AccuWeather tarzı tasarım** Modern ve kullanıcı dostu hava durumu uygulaması. Üniversite bilgisayar programlama dersi projesi.
+<div align="center"> Modern, minimalist hava durumu uygulaması - AccuWeather tarzı tasarım | Modern ve kullanıcı dostu hava durumu uygulaması. Üniversite bilgisayar programlama dersi projesi.
 
 
 
