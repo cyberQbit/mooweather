@@ -6,7 +6,11 @@
 
 
 
+<<<<<<< HEAD
 <div align="center">**Modern, minimalist Turkish weather app with AccuWeather-style design**
+=======
+<div align="center"> Modern, minimalist hava durumu uygulaması - AccuWeather tarzı tasarım | Modern ve kullanıcı dostu hava durumu uygulaması. Üniversite bilgisayar programlama dersi projesi.
+>>>>>>> 643db5322d6161fd9bc7f4e2f55480d47426bb27
 
 
 
@@ -28,9 +32,13 @@
 
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
 
+<<<<<<< HEAD
 ---
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)<div align="center">## ✨ Özellikler
+=======
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)<div align="center"> ✨ Özellikler
+>>>>>>> 643db5322d6161fd9bc7f4e2f55480d47426bb27
 
 ## 📱 About
 
@@ -1189,8 +1197,7 @@ Bu proje eğitim amaçlıdır ve MIT lisansı altında paylaşılmaktadır.
 
 ## 👨‍💻 Geliştirici
 
-**Üniversite Projesi**  
-Yazılım Dersi - Ekim 2025
+**Aydın (cyberQbit) Aydemir**  
 
 ---
 
