@@ -32,9 +32,9 @@
 
 ## 📱 Proje Hakkında
 
-[cite_start]MooWeather, modern Flutter framework'ü ile geliştirilmiş, AccuWeather ve Google Weather'dan ilham alan bir tasarıma sahip hava durumu uygulamasıdır. [cite: 31] [cite_start]Türkçe dil desteği, glassmorphism efektleri ve akıcı animasyonlarla zenginleştirilmiş kullanıcı dostu bir deneyim sunar. [cite: 32]
+MooWeather, modern Flutter framework'ü ile geliştirilmiş, AccuWeather ve Google Weather'dan ilham alan bir tasarıma sahip hava durumu uygulamasıdır. Türkçe dil desteği, glassmorphism efektleri ve akıcı animasyonlarla zenginleştirilmiş kullanıcı dostu bir deneyim sunar.
 
-[cite_start]**🎯 Proje Amacı:** Bu uygulama, bir **üniversite bilgisayar programlama dersi projesi** kapsamında, modern mobil uygulama geliştirme tekniklerini öğrenmek ve uygulamak amacıyla geliştirilmiştir. [cite: 33]
+**🎯 Proje Amacı:** Bu uygulama, bir **üniversite bilgisayar programlama dersi projesi** kapsamında, modern mobil uygulama geliştirme tekniklerini öğrenmek ve uygulamak amacıyla geliştirilmiştir.
 
 ---
 
@@ -45,26 +45,26 @@
 - ✅ **Glassmorphism Efektleri:** Yarı saydam, bulanık arka planlı şık kartlar.
 - ✅ **Dinamik Gradient Arka Planlar:** Hava durumuna (açık, bulutlu, yağmurlu vb.) göre değişen arayüz renkleri.
 - ✅ **Akıcı Animasyonlar:** Pull-to-refresh ve "shimmer" iskelet yükleme animasyonları.
-- [cite_start]✅ **Duyarlı Tasarım:** Klavye açıldığında taşma yapmayan, uyumlu arayüz. [cite: 42]
+- ✅ **Duyarlı Tasarım:** Klavye açıldığında taşma yapmayan, uyumlu arayüz.
 
 ### 🔧 Teknik Üstünlükler
-- [cite_start]✅ **Multi-API Key Rotation:** Kesintisiz hizmet için 4 farklı API anahtarı arasında otomatik geçiş. [cite: 44]
-- [cite_start]✅ **Retry Logic:** Ağ hatası durumunda `exponential backoff` stratejisiyle 3 kez yeniden deneme. [cite: 47]
-- [cite_start]✅ **Rate Limiting:** API limit aşımı hatalarını önlemek için istemci taraflı istek sınırlama. [cite: 52]
-- [cite_start]✅ **8 Farklı Custom Exception:** Detaylı ve yönetilebilir hata takibi için özel istisna sınıfları. [cite: 53]
-- [cite_start]✅ **Güvenli API Yönetimi:** API anahtarlarının `.env` dosyası ile koddan soyutlanarak güvenli bir şekilde saklanması. [cite: 53]
-- [cite_start]✅ **Logger Entegrasyonu:** Sadece debug modunda çalışan detaylı loglama sistemi. [cite: 54]
+- ✅ **Multi-API Key Rotation:** Kesintisiz hizmet için 4 farklı API anahtarı arasında otomatik geçiş.
+- ✅ **Retry Logic:** Ağ hatası durumunda `exponential backoff` stratejisiyle 3 kez yeniden deneme.
+- ✅ **Rate Limiting:** API limit aşımı hatalarını önlemek için istemci taraflı istek sınırlama.
+- ✅ **8 Farklı Custom Exception:** Detaylı ve yönetilebilir hata takibi için özel istisna sınıfları.
+- ✅ **Güvenli API Yönetimi:** API anahtarlarının `.env` dosyası ile koddan soyutlanarak güvenli bir şekilde saklanması.
+- ✅ **Logger Entegrasyonu:** Sadece debug modunda çalışan detaylı loglama sistemi.
 
 ### 🇹🇷 Kapsamlı Türkçe Lokalizasyon
-- [cite_start]✅ **80+ Terim Çevirisi:** Hava durumuyla ilgili 80'den fazla terimin Türkçe karşılığı. [cite: 56]
-- [cite_start]✅ **Tamamen Türkçe Arayüz:** Uygulamanın tüm menü ve açıklamaları Türkçe. [cite: 57]
-- [cite_start]✅ **Türkçe Şehir Arama Desteği:** Arama fonksiyonu Türkçe karakterlerle uyumlu. [cite: 60]
+- ✅ **80+ Terim Çevirisi:** Hava durumuyla ilgili 80'den fazla terimin Türkçe karşılığı.
+- ✅ **Tamamen Türkçe Arayüz:** Uygulamanın tüm menü ve açıklamaları Türkçe.
+- ✅ **Türkçe Şehir Arama Desteği:** Arama fonksiyonu Türkçe karakterlerle uyumlu.
 
 ### 🌍 Hava Durumu Verileri
-- [cite_start]✅ **Anlık Durum:** Sıcaklık, hissedilen sıcaklık, nem, basınç, rüzgar hızı ve görüş mesafesi. [cite: 65]
-- [cite_start]✅ **Saatlik ve Günlük Tahminler:** Gelecek saatler ve günler için hava durumu öngörüleri. [cite: 69]
-- [cite_start]✅ **GPS Desteği:** Cihazın konumunu otomatik olarak algılayarak hava durumunu gösterme. [cite: 72]
-- [cite_start]✅ **Manuel Arama:** İstenilen şehri aratarak hava durumunu öğrenme. [cite: 75]
+- ✅ **Anlık Durum:** Sıcaklık, hissedilen sıcaklık, nem, basınç, rüzgar hızı ve görüş mesafesi.
+- ✅ **Saatlik ve Günlük Tahminler:** Gelecek saatler ve günler için hava durumu öngörüleri.
+- ✅ **GPS Desteği:** Cihazın konumunu otomatik olarak algılayarak hava durumunu gösterme.
+- ✅ **Manuel Arama:** İstenilen şehri aratarak hava durumunu öğrenme.
 
 ---
 
@@ -86,12 +86,12 @@
 
 ## 🚀 Kurulum
 
-[cite_start]Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin. [cite: 79]
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 ### 1. Gereksinimler
-- [cite_start]Flutter SDK (versiyon 3.0.0 veya üstü) [cite: 81]
-- [cite_start]Android Studio veya VS Code [cite: 82]
-- [cite_start]Android Emülatör veya Fiziksel Cihaz (API 21+) [cite: 83]
+- Flutter SDK (versiyon 3.0.0 veya üstü)
+- Android Studio veya VS Code
+- Android Emülatör veya Fiziksel Cihaz (API 21+)
 
 ### 2. Projeyi Klonlayın
 ```bash
@@ -105,11 +105,11 @@ flutter pub get
 ```
 
 ### 4. API Anahtarını Ayarlayın
-[cite_start]Projenin çalışması için bir OpenWeatherMap API anahtarına ihtiyacınız var. [cite: 89]
+Projenin çalışması için bir OpenWeatherMap API anahtarına ihtiyacınız var.
 
-- [cite_start]Proje kök dizininde `.env` adında bir dosya oluşturun. [cite: 90]
-- [cite_start][OpenWeatherMap](https://openweathermap.org/api) adresinden ücretsiz bir API anahtarı alın. [cite: 91]
-- [cite_start]Oluşturduğunuz `.env` dosyasına anahtarınızı aşağıdaki gibi ekleyin: [cite: 92]
+- Proje kök dizininde `.env` adında bir dosya oluşturun.
+- [OpenWeatherMap](https.org/api) adresinden ücretsiz bir API anahtarı alın.
+- Oluşturduğunuz `.env` dosyasına anahtarınızı aşağıdaki gibi ekleyin:
 
 ```env
 OPENWEATHER_API_KEY=BURAYA_API_ANAHTARINIZI_YAPISTIRIN
@@ -127,19 +127,19 @@ flutter run
 
 ## 📄 Lisans
 
-[cite_start]Bu proje, **MIT Lisansı** altında lisanslanmıştır. [cite: 100] [cite_start]Detaylar için `LICENSE` dosyasına göz atabilirsiniz. [cite: 100]
+Bu proje, **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
 ---
 
 ## 🙏 Teşekkürler
-- [cite_start]Hava durumu verileri için [OpenWeatherMap](https://openweathermap.org/) [cite: 102]
-- [cite_start]Harika UI framework'ü için [Flutter](https://flutter.dev/) [cite: 103]
-- [cite_start]Modern state management çözümü için [Riverpod](https://riverpod.dev/) [cite: 104]
-- [cite_start]Tasarım ilhamı için [AccuWeather](https://www.accuweather.com/) [cite: 105]
+- Hava durumu verileri için [OpenWeatherMap](https://openweathermap.org/)
+- Harika UI framework'ü için [Flutter](https://flutter.dev/)
+- Modern state management çözümü için [Riverpod](https://riverpod.dev/)
+- Tasarım ilhamı için [AccuWeather](https://www.accuweather.com/)
 
 <div align="center">
   <br>
-  [cite_start]<strong>MooWeather</strong> - Hava durumu her an yanınızda! [cite: 106]
+  <strong>MooWeather</strong> - Hava durumu her an yanınızda!
   <br>
   <small>Aydın (cyberQbit) Aydemir tarafından geliştirildi.</small>
 </div>
