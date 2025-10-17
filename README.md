@@ -135,11 +135,10 @@ Bu proje, **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE`
 - Hava durumu verileri için [OpenWeatherMap](https://openweathermap.org/)
 - Harika UI framework'ü için [Flutter](https://flutter.dev/)
 - Modern state management çözümü için [Riverpod](https://riverpod.dev/)
-- Tasarım ilhamı için [AccuWeather](https://www.accuweather.com/)
 
 <div align="center">
   <br>
   <strong>MooWeather</strong> - Hava durumu her an yanınızda!
   <br>
-  <small>Aydın (cyberQbit) Aydemir tarafından geliştirildi.</small>
+  <small>Aydın 'cyberQbit' Aydemir tarafından geliştirildi.</small>
 </div>
