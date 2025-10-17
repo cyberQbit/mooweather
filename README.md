@@ -1,230 +1,457 @@
-# 🌤️ MooWeather# 🌤️ MooWeather# 🌤️ MooWeather# 🌤️ MooWeather
+# 🌤️ MooWeather# 🌤️ MooWeather# 🌤️ MooWeather# 🌤️ MooWeather# 🌤️ MooWeather
 
 
 
-> Modern, minimalist Turkish weather app with AccuWeather-style design
+**Modern Turkish weather app with AccuWeather-style design**
 
 
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=flat&logo=flutter)](https://flutter.dev)> Modern, minimalist Turkish weather app with AccuWeather-style design
+
+[![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=flat&logo=dart)](https://dart.dev)
+
+[![Android](https://img.shields.io/badge/Android-5.0+-3DDC84?style=flat&logo=android)](https://www.android.com)
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
 <<<<<<< HEAD
-<div align="center">**Modern, minimalist Turkish weather app with AccuWeather-style design**
+
+---<div align="center">**Modern, minimalist Turkish weather app with AccuWeather-style design**
+
 =======
-<div align="center"> Modern, minimalist hava durumu uygulaması - AccuWeather tarzı tasarım | Modern ve kullanıcı dostu hava durumu uygulaması. Üniversite bilgisayar programlama dersi projesi.
+
+## 📥 Download<div align="center"> Modern, minimalist hava durumu uygulaması - AccuWeather tarzı tasarım | Modern ve kullanıcı dostu hava durumu uygulaması. Üniversite bilgisayar programlama dersi projesi.
+
 >>>>>>> 643db5322d6161fd9bc7f4e2f55480d47426bb27
 
+**Latest Release:** [Download APK v1.0.0](https://github.com/cyberQbit/mooweather/releases)
 
+
+
+*Minimum: Android 5.0 (API 21) • Size: ~50 MB*
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
 
-[![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
-
-[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://www.android.com)<div align="center">**Modern, minimalist hava durumu uygulaması - AccuWeather tarzı tasarım**Modern ve kullanıcı dostu hava durumu uygulaması. Üniversite bilgisayar programlama dersi projesi.
-
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-
-
-
-### [📥 Download APK](https://github.com/cyberQbit/mooweather/releases) • [✨ Features](#-features) • [🚀 Installation](#-installation)
-
-![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)
-
-</div>
-
-![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
-
-<<<<<<< HEAD
 ---
 
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)<div align="center">## ✨ Özellikler
-=======
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)<div align="center"> ✨ Özellikler
->>>>>>> 643db5322d6161fd9bc7f4e2f55480d47426bb27
+[![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart)](https://dart.dev)
 
 ## 📱 About
 
-![License](https://img.shields.io/badge/License-MIT-green)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://www.android.com)<div align="center">**Modern, minimalist hava durumu uygulaması - AccuWeather tarzı tasarım**Modern ve kullanıcı dostu hava durumu uygulaması. Üniversite bilgisayar programlama dersi projesi.
 
-MooWeather is a modern weather application built with Flutter, featuring an **AccuWeather and Google Weather inspired design**. It provides a user-friendly experience with **Turkish language support**, glassmorphism effects, and smooth animations.
+Modern weather application built with Flutter. Features AccuWeather and Google Weather inspired design with Turkish language support, glassmorphism effects, and smooth animations.
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+**University Project:** Software Engineering Course - October 2025
 
 
-
-**🎯 Project Purpose:** Developed as part of a university software course to learn and apply modern mobile application development techniques.
-
-[📥 Download APK](#-download) • [✨ Features](#-features) • [🚀 Installation](#-installation) • [📸 Screenshots](#-screenshots)
-
----
-
-![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)### 🎨 Modern UI/UX
-
-## 📥 Download
-
-</div>
-
-<div align="center">
-
-![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)- **AccuWeather/Google Weather** tarzı modern tasarım
-
-### Latest Release: v1.0.0
 
 ---
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/cyberQbit/mooweather/releases/latest/download/app-release.apk)
-
-![Platform](https://img.shields.io/badge/Platform-Android-green.svg)- **Glassmorphism** efektli kartlar (yarı saydam, bulanık arka plan)
-
-**File Size:** ~50 MB | **Minimum:** Android 5.0 (API 21)
-
-## 📥 Download
-
-*Alternative:* [View All Releases](https://github.com/cyberQbit/mooweather/releases)
-
-![License](https://img.shields.io/badge/License-MIT-orange.svg)- **Gradient arka planlar** (hava durumuna göre dinamik renkler)
-
-</div>
-
-**Latest Release: v1.0.0**
-
----
-
-- **Pull-to-refresh** (aşağı çekerek yenileme)
+### [📥 Download APK](https://github.com/cyberQbit/mooweather/releases) • [✨ Features](#-features) • [🚀 Installation](#-installation)
 
 ## ✨ Features
 
-<div align="center">
+![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)
 
-### 🎨 Modern UI/UX
+### UI/UX
 
-- ✅ **AccuWeather-style design** - Professional and minimal</div>- **Shimmer loading** animasyonları
+- AccuWeather-style modern interface</div>
 
-- ✅ **Glassmorphism effects** - Semi-transparent, blurred cards
+- Glassmorphism card effects
 
-- ✅ **Dynamic gradient backgrounds** - Colors change based on weather### [⬇️ Download MooWeather APK](https://github.com/cyberQbit/mooweather/releases/download/v1.0.0/app-release.apk)
+- Dynamic gradient backgrounds![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
 
-- ✅ **Smooth animations** - Pull-to-refresh, shimmer loading
+- Pull-to-refresh functionality
 
-- ✅ **Responsive design** - Keyboard-aware interface
-
-
-
-### 🇹🇷 Turkish Localization*File size: ~15-20 MB | Android 5.0 (API 21) or higher*
-
-- ✅ **80+ weather terms** translated
-
-- ✅ Full Turkish interface---### 🌍 Hava Durumu
-
-- ✅ Turkish city search support
-
-**Alternative Download:**
-
-### 🔧 Technical Features
-
-- ✅ **Multi-API key rotation** - 4 different API keys for uninterrupted service- [All Releases](https://github.com/cyberQbit/mooweather/releases)- **Anlık hava durumu** (sıcaklık, nem, rüzgar, basınç, hissedilen)
-
-- ✅ **Retry logic** - 3x retry with exponential backoff
-
-- ✅ **Rate limiting** - Prevents API limit exceeded errors- [APK from Source](./build/app/outputs/flutter-apk/app-release.apk) *(after building)*
-
-- ✅ **8 custom exception types** - Detailed error management
-
-- ✅ **Secure API key management** - Protected with .env## 📱 Hakkında- **Saatlik tahmin** (24 saat)
-
-- ✅ **Logger integration** - Debug mode logging
-
-</div>
-
-### 🌍 Weather Information
-
-- ✅ Current weather conditions- **7 günlük tahmin**
-
-- ✅ Temperature, feels like temperature
-
-- ✅ Humidity, pressure, wind speed---
-
-- ✅ Visibility distance
-
-- ✅ Hourly forecastsMooWeather, modern Flutter framework'ü ile geliştirilmiş, AccuWeather ve Google Weather tarzında tasarlanmış bir hava durumu uygulamasıdır. Türkçe dil desteği, glassmorphism efektleri ve smooth animasyonlarla kullanıcı dostu bir deneyim sunar.- **Konum tabanlı** (GPS ile otomatik konum)
-
-- ✅ Daily forecasts
-
-- ✅ GPS location support## 📱 About
-
-- ✅ Manual city search
-
-- **Şehir arama** (manuel şehir seçimi)
+- Shimmer loading animations<<<<<<< HEAD
 
 ---
 
-MooWeather is a modern weather application built with Flutter, featuring an AccuWeather and Google Weather inspired design. It provides a user-friendly experience with Turkish language support, glassmorphism effects, and smooth animations.
+### Localization
+
+- 80+ Turkish weather terms![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)<div align="center">## ✨ Özellikler
+
+- Turkish city search support=======
+
+- Full Turkish interface![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android)<div align="center"> ✨ Özellikler
+
+>>>>>>> 643db5322d6161fd9bc7f4e2f55480d47426bb27
+
+### Technical
+
+- Multi-API key rotation (4 keys)## 📱 About
+
+- Retry logic with exponential backoff
+
+- Rate limiting protection![License](https://img.shields.io/badge/License-MIT-green)
+
+- 8 custom exception types
+
+- Secure .env configurationMooWeather is a modern weather application built with Flutter, featuring an **AccuWeather and Google Weather inspired design**. It provides a user-friendly experience with **Turkish language support**, glassmorphism effects, and smooth animations.
+
+- Debug mode logging
+
+
+
+### Weather Data
+
+- Current weather conditions**🎯 Project Purpose:** Developed as part of a university software course to learn and apply modern mobile application development techniques.
+
+- Temperature & feels like
+
+- Humidity, pressure, wind speed[📥 Download APK](#-download) • [✨ Features](#-features) • [🚀 Installation](#-installation) • [📸 Screenshots](#-screenshots)
+
+- Visibility distance
+
+- GPS location support---
+
+- Manual city search
+
+![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)### 🎨 Modern UI/UX
+
+---
+
+## 📥 Download
 
 ## 🚀 Installation
 
-### 🎯 Proje Amacı- **Türkçe hava durumu** (80+ terim çevirisi)
+</div>
 
-### Prerequisites
+### Requirements
 
-### 🎯 Project Purpose
+- Flutter SDK >= 3.0.0<div align="center">
 
-- Flutter SDK >= 3.0.0
+- Android SDK (API 21+)
 
-- Dart SDK >= 3.0.0
-
-- Android SDK (API level 21+)
-
-- OpenWeatherMap API keyThis project was developed as part of a university software course to learn and apply modern mobile application development techniques.
+- OpenWeatherMap API key![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)- **AccuWeather/Google Weather** tarzı modern tasarım
 
 
 
-### StepsBu proje, üniversite yazılım dersi kapsamında modern mobil uygulama geliştirme tekniklerini öğrenmek ve uygulamak için geliştirilmiştir.### 🔧 Teknik Özellikler
+### Setup### Latest Release: v1.0.0
 
 
 
-**1. Clone the repository**---
+**1. Clone repository**---
 
 ```bash
 
-git clone https://github.com/cyberQbit/mooweather.git- **Multi-API key rotation** (4 API anahtarı, otomatik failover)
+git clone https://github.com/cyberQbit/mooweather.git[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/cyberQbit/mooweather/releases/latest/download/app-release.apk)
 
 cd mooweather
 
-```## ✨ Features
+```![Platform](https://img.shields.io/badge/Platform-Android-green.svg)- **Glassmorphism** efektli kartlar (yarı saydam, bulanık arka plan)
 
 
 
-**2. Install dependencies**---- **Rate limiting** (1.1 saniye interval)
+**2. Install dependencies****File Size:** ~50 MB | **Minimum:** Android 5.0 (API 21)
 
 ```bash
 
-flutter pub get### 🎨 Modern UI/UX
+flutter pub get## 📥 Download
 
 ```
 
-- ✅ **AccuWeather-style design** - Professional and minimal- **Retry logic** (3x deneme, exponential backoff)
+*Alternative:* [View All Releases](https://github.com/cyberQbit/mooweather/releases)
 
-**3. Add your API key**
+**3. Create .env file**
 
-- ✅ **Glassmorphism effects** - Semi-transparent, blurred cards
-
-Create a `.env` file in the project root:
-
-```env- ✅ **Dynamic gradient backgrounds** - Colors change based on weather conditions## ✨ Özellikler- **Timeout** (10 saniye)
+```env![License](https://img.shields.io/badge/License-MIT-orange.svg)- **Gradient arka planlar** (hava durumuna göre dinamik renkler)
 
 API_KEY_1=your_api_key_here
 
-API_KEY_2=your_api_key_here- ✅ **Smooth animations** - Pull-to-refresh, shimmer loading
+API_KEY_2=your_api_key_here</div>
 
 API_KEY_3=your_api_key_here
 
-API_KEY_4=your_api_key_here- ✅ **Responsive design** - Keyboard-aware interface- **Custom exceptions** (8 farklı hata türü)
+API_KEY_4=your_api_key_here**Latest Release: v1.0.0**
 
 ```
 
+---
+
+Get free API key: [OpenWeatherMap](https://openweathermap.org/api)
+
+- **Pull-to-refresh** (aşağı çekerek yenileme)
+
+**4. Run**
+
+```bash## ✨ Features
+
+flutter run
+
+```<div align="center">
 
 
-> 💡 **How to get API key:** Create a free account at [OpenWeatherMap](https://openweathermap.org/api) and generate your API key.
 
-### 🇹🇷 Turkish Localization### 🎨 Modern UI/UX- **Logger** (detaylı debug logları)
+---### 🎨 Modern UI/UX
 
-**4. Run the app**
+
+
+## 📦 Build- ✅ **AccuWeather-style design** - Professional and minimal</div>- **Shimmer loading** animasyonları
+
+
+
+### Release APK- ✅ **Glassmorphism effects** - Semi-transparent, blurred cards
+
+```bash
+
+flutter build apk --release- ✅ **Dynamic gradient backgrounds** - Colors change based on weather### [⬇️ Download MooWeather APK](https://github.com/cyberQbit/mooweather/releases/download/v1.0.0/app-release.apk)
+
+```
+
+Output: `build/app/outputs/flutter-apk/app-release.apk`- ✅ **Smooth animations** - Pull-to-refresh, shimmer loading
+
+
+
+### Debug APK- ✅ **Responsive design** - Keyboard-aware interface
+
+```bash
+
+flutter build apk --debug
+
+```
+
+### 🇹🇷 Turkish Localization*File size: ~15-20 MB | Android 5.0 (API 21) or higher*
+
+---
+
+- ✅ **80+ weather terms** translated
+
+## 🛠️ Tech Stack
+
+- ✅ Full Turkish interface---### 🌍 Hava Durumu
+
+| Technology | Version | Purpose |
+
+|------------|---------|---------|- ✅ Turkish city search support
+
+| Flutter | 3.0+ | UI Framework |
+
+| Dart | 3.0+ | Language |**Alternative Download:**
+
+| Riverpod | 2.5.1 | State Management |
+
+| OpenWeatherMap | v2.5 | Weather API |### 🔧 Technical Features
+
+
+
+### Key Packages- ✅ **Multi-API key rotation** - 4 different API keys for uninterrupted service- [All Releases](https://github.com/cyberQbit/mooweather/releases)- **Anlık hava durumu** (sıcaklık, nem, rüzgar, basınç, hissedilen)
+
+- `flutter_riverpod` - State management
+
+- `flutter_dotenv` - Environment variables- ✅ **Retry logic** - 3x retry with exponential backoff
+
+- `http` - API calls
+
+- `geolocator` - GPS location- ✅ **Rate limiting** - Prevents API limit exceeded errors- [APK from Source](./build/app/outputs/flutter-apk/app-release.apk) *(after building)*
+
+- `logger` - Debug logging
+
+- `shimmer` - Loading animations- ✅ **8 custom exception types** - Detailed error management
+
+
+
+---- ✅ **Secure API key management** - Protected with .env## 📱 Hakkında- **Saatlik tahmin** (24 saat)
+
+
+
+## 📂 Project Structure- ✅ **Logger integration** - Debug mode logging
+
+
+
+```</div>
+
+lib/
+
+├── main.dart### 🌍 Weather Information
+
+├── constants/
+
+│   └── app_colors.dart- ✅ Current weather conditions- **7 günlük tahmin**
+
+├── models/
+
+│   ├── weather_model.dart- ✅ Temperature, feels like temperature
+
+│   └── weather_exceptions.dart
+
+├── providers/- ✅ Humidity, pressure, wind speed---
+
+│   └── weather_provider.dart
+
+├── screens/- ✅ Visibility distance
+
+│   ├── weather_screen.dart
+
+│   ├── search_screen.dart- ✅ Hourly forecastsMooWeather, modern Flutter framework'ü ile geliştirilmiş, AccuWeather ve Google Weather tarzında tasarlanmış bir hava durumu uygulamasıdır. Türkçe dil desteği, glassmorphism efektleri ve smooth animasyonlarla kullanıcı dostu bir deneyim sunar.- **Konum tabanlı** (GPS ile otomatik konum)
+
+│   └── splash_screen.dart
+
+├── services/- ✅ Daily forecasts
+
+│   └── weather_service.dart
+
+├── utils/- ✅ GPS location support## 📱 About
+
+│   └── weather_translator.dart
+
+└── widgets/- ✅ Manual city search
+
+    ├── weather_card.dart
+
+    ├── loading_shimmer.dart- **Şehir arama** (manuel şehir seçimi)
+
+    └── moo_logo.dart
+
+```---
+
+
+
+---MooWeather is a modern weather application built with Flutter, featuring an AccuWeather and Google Weather inspired design. It provides a user-friendly experience with Turkish language support, glassmorphism effects, and smooth animations.
+
+
+
+## 🎨 Design## 🚀 Installation
+
+
+
+**Gradient Colors by Weather Condition:**### 🎯 Proje Amacı- **Türkçe hava durumu** (80+ terim çevirisi)
+
+
+
+| Condition | Colors |### Prerequisites
+
+|-----------|--------|
+
+| ☀️ Clear | #4A90E2 → #5BA3F5 |### 🎯 Project Purpose
+
+| ☁️ Cloudy | #6B7B8C → #8E9EAB |
+
+| 🌧️ Rainy | #4A5F7A → #6B8CAE |- Flutter SDK >= 3.0.0
+
+| ❄️ Snowy | #B8C6DB → #F5F7FA |
+
+| 🌫️ Foggy | #9BA5B7 → #C5CCD4 |- Dart SDK >= 3.0.0
+
+| 🌙 Night | #1E3A5F → #2E5090 |
+
+- Android SDK (API level 21+)
+
+---
+
+- OpenWeatherMap API keyThis project was developed as part of a university software course to learn and apply modern mobile application development techniques.
+
+## 🔐 Security
+
+
+
+- API keys stored in `.env` (excluded from Git)
+
+- 4-key rotation system### StepsBu proje, üniversite yazılım dersi kapsamında modern mobil uygulama geliştirme tekniklerini öğrenmek ve uygulamak için geliştirilmiştir.### 🔧 Teknik Özellikler
+
+- Rate limiting enabled
+
+- Required permissions: `INTERNET`, `ACCESS_FINE_LOCATION`, `ACCESS_COARSE_LOCATION`
+
+
+
+---**1. Clone the repository**---
+
+
+
+## 🐛 Issues```bash
+
+
+
+No known issues. [Report a bug](https://github.com/cyberQbit/mooweather/issues)git clone https://github.com/cyberQbit/mooweather.git- **Multi-API key rotation** (4 API anahtarı, otomatik failover)
+
+
+
+---cd mooweather
+
+
+
+## 🚧 Future Improvements```## ✨ Features
+
+
+
+- [ ] Dark mode
+
+- [ ] °C/°F unit switching
+
+- [ ] Favorite cities**2. Install dependencies**---- **Rate limiting** (1.1 saniye interval)
+
+- [ ] Offline cache
+
+- [ ] Push notifications```bash
+
+- [ ] Home screen widget
+
+flutter pub get### 🎨 Modern UI/UX
+
+---
+
+```
+
+## 📄 License
+
+- ✅ **AccuWeather-style design** - Professional and minimal- **Retry logic** (3x deneme, exponential backoff)
+
+MIT License - see [LICENSE](LICENSE) file
+
+**3. Add your API key**
+
+---
+
+- ✅ **Glassmorphism effects** - Semi-transparent, blurred cards
+
+## 👨‍💻 Author
+
+Create a `.env` file in the project root:
+
+University Software Engineering Project - October 2025
+
+```env- ✅ **Dynamic gradient backgrounds** - Colors change based on weather conditions## ✨ Özellikler- **Timeout** (10 saniye)
+
+---
+
+API_KEY_1=your_api_key_here
+
+## 🙏 Credits
+
+API_KEY_2=your_api_key_here- ✅ **Smooth animations** - Pull-to-refresh, shimmer loading
+
+- [OpenWeatherMap](https://openweathermap.org/) - Weather API
+
+- [Flutter](https://flutter.dev/) - FrameworkAPI_KEY_3=your_api_key_here
+
+- [Riverpod](https://riverpod.dev/) - State management
+
+- [AccuWeather](https://www.accuweather.com/) - Design inspirationAPI_KEY_4=your_api_key_here- ✅ **Responsive design** - Keyboard-aware interface- **Custom exceptions** (8 farklı hata türü)
+
+
+
+---```
+
+
+
+<div align="center">
+
+
+
+**Made with ❤️ using Flutter**> 💡 **How to get API key:** Create a free account at [OpenWeatherMap](https://openweathermap.org/api) and generate your API key.
+
+
+
+[⬆ Back to Top](#-mooweather)### 🇹🇷 Turkish Localization### 🎨 Modern UI/UX- **Logger** (detaylı debug logları)
+
+
+
+</div>**4. Run the app**
+
 
 ```bash- ✅ **80+ weather terms** translated
 
