@@ -34,7 +34,7 @@
 
 MooWeather, modern Flutter framework'ü ile geliştirilmiş, AccuWeather ve Google Weather'dan ilham alan bir tasarıma sahip hava durumu uygulamasıdır. Türkçe dil desteği, glassmorphism efektleri ve akıcı animasyonlarla zenginleştirilmiş kullanıcı dostu bir deneyim sunar.
 
-**🎯 Proje Amacı:** Bu uygulama, bir **üniversite bilgisayar programlama dersi projesi** kapsamında, modern mobil uygulama geliştirme tekniklerini öğrenmek ve uygulamak amacıyla geliştirilmiştir.
+**🎯 Proje Amacı:** Bu uygulama, bir **Ankara Üniversitesi Bilgisayar Programlamcılığı bölümü Dönem Projesi** kapsamında, modern mobil uygulama geliştirme tekniklerini öğrenmek ve uygulamak amacıyla geliştirilmiştir.
 
 ---
 
