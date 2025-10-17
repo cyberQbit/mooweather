@@ -819,8 +819,7 @@ Bu proje eğitim amaçlıdır ve MIT lisansı altında paylaşılmaktadır.
 
 ## 👨‍💻 Geliştirici
 
-**Üniversite Projesi**  
-Yazılım Dersi - Ekim 2025
+**Aydın (cyberQbit) Aydemir**  
 
 ---
 
