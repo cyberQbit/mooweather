@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**AccuWeather ve Google Weather tarzında tasarlanmış, modern ve kullanıcı dostu bir arayüze sahip, Flutter ile geliştirilmiş Türkçe hava durumu uygulaması.**
+**AccuWeather ve Google Weather tarzında tasarlanmış, modern, sade ve kullanıcı dostu bir arayüze sahip, Flutter ile geliştirilmiş Türkçe hava durumu uygulaması.**
 
 </div>
 
